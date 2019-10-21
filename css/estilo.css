@@ -1,18 +1,13 @@
-body {
 
-
-    
-
-
-}
 
 nav {
 
     display: flex;
     flex-direction: row ;
     justify-content: space-between;
-    border: solid black;
-
+    border: solid grey;
+    background-color: black;
+    color: white;
 }
 
 
@@ -42,7 +37,7 @@ nav li {
 .main_container {
 
 
-    border: solid red;
+    border: solid blue;
     height: 700px;
 
 }
