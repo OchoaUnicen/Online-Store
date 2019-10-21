@@ -12,6 +12,27 @@ nav {
 
 
 
+.tabla_productos {
+
+    height: 600px;
+    width: 900px;
+    border: solid green;
+   
+
+}
+
+
+
+
+
+/*
+
+Tamaño aproximado para cada compra
+
+height: 200px;
+width: 300px;
+ */
+
 
 nav li {
 
@@ -37,6 +58,9 @@ nav li {
 .main_container {
 
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
     border: solid blue;
     height: 700px;
 
