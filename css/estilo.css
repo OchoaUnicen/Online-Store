@@ -1,0 +1,48 @@
+body {
+
+
+    
+
+
+}
+
+nav {
+
+    display: flex;
+    flex-direction: row ;
+    justify-content: space-between;
+    border: solid black;
+
+}
+
+
+
+
+nav li {
+
+
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+
+
+
+.contenedor_miCuenta_ImgTuerquita {
+
+
+
+    justify-content: flex-end;
+
+}
+
+.main_container {
+
+
+    border: solid red;
+    height: 700px;
+
+}
